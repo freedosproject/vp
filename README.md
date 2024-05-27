@@ -57,3 +57,12 @@ That means:
 * 640x480 is wide enough, but too "short"
 * 800x600 is also wide enough, but still too "short"
 * 1024x768 is both wide enough and long enough
+
+## Sample output
+
+The virtual printer generates 510x660 images in 1024x768 that simulate US Letter printed
+pages. Here is what that looks like:
+
+![sample output, page 1](dotmatrix1.png)
+
+![sample output, page 2](dotmatrix2.png)
